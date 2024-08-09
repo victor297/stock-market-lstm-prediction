@@ -9,7 +9,7 @@ import plotly.graph_objects as go
 
 # Set up Streamlit
 st.title("Stock Price Predictor App")
-st.subheader("By Kosemani abdulalim Adeshina 20/47cs/01133")
+st.subheader("By Kosemani abdulalim Adeshina -- 20/47cs/01133")
 
 # Get user input for stock ID
 stock = st.text_input("Enter the Stock ID", "GOOG")
